@@ -1,4 +1,4 @@
-# This is a simple application that shows IPs and server names from a given Url.
+# This is a simple command line application that shows IPs and server names from a given Url.
 
 ## Usage:
 There are two main commands in this: "ips" and "names", and one flag: "host".
