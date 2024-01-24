@@ -8,6 +8,6 @@ The "ips" command shows a list of the public IPs of a given domain. The "names" 
 If no domain is given than the app will use the default domain that is "google.com.br".
 
 ## Example:
-./command-line ip --host github.com
+./command-line ips --host github.com
 
 ./command-line names --host github.com
